@@ -1,14 +1,14 @@
-<p align="center"><h1 align="center"><samp>How am i ???</samp></h1></p>
+<p align="center"><h1 align="center"><samp>Who am i ???</samp></h1></p>
 <p align="center"><img src="https://user-images.githubusercontent.com/71524940/140406669-70728590-5b8b-4186-8fe9-36908a1bb3cc.gif"/></p>
 <p align="center"><h1 align="center"><samp>" I'm Mobin Shahidi "</samp></h1></p>
 <p align="center"><samp>Restrictions are not defined for me , for this reason I use Linux to learn new things, I love learning new things, and I always learn new things every time. I shape my life with html, css, ...,and make rules with Python.</samp></p>
 <br />
-<p align="center"><samp><strong>Programming Language</strong></samp></p>
+<!-- <p align="center"><samp><strong>Programming Language</strong></samp></p>
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" /> -->
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
-</p>
+</p> -->
 
 <!-- <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
