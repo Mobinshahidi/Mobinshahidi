@@ -7,8 +7,8 @@
 
 <p align="center">
 <!--   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" /> -->
-  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
-</p> -->
+<!--   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" />
+</p> --> -->
 
 <!-- <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vuejs" />
   <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="Reactjs" />
 </p> -->
-<hr>
+<!-- <hr> -->
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
