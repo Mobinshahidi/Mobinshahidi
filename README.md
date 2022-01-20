@@ -21,8 +21,8 @@
 </p> -->
 ## Language and tools that I know:
 <p align="center">
-![HTML](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)
+<img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5">
+<img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
