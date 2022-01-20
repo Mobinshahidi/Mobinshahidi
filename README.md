@@ -19,9 +19,9 @@
   <img src="https://img.shields.io/badge/-Vuejs-darkgreen?style=for-the-badge&logo=vue.js" alt="Vuejs" />
   <img src="https://img.shields.io/badge/-Reactjs-darkblue?style=for-the-badge&logo=react" alt="Reactjs" />
 </p> -->
-<p align="center">
-## Language and tools that I know:
 
+<p align="center"><samp><strong>Language and tools that I know:</strong></samp></p>
+<p align="center">
 <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5">
 <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
 </p>
