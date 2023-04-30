@@ -6,9 +6,9 @@
 <!-- <p align="center"><samp><strong>Programming Language</strong></samp></p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
+<!--   <img src="https://img.shields.io/badge/-Javasciprt-black?style=for-the-badge&logo=javascript" alt="Javasciprt" />
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python" alt="Python" /></p>
-
+ -->
 <!-- <p align="center"><samp><strong>Frame Work and Library</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-Jquery-blue?style=for-the-badge&logo=jquery" alt="jquery" />
@@ -23,6 +23,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5">
 <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
