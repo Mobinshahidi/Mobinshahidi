@@ -51,8 +51,8 @@
 <hr>
 <p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mobinshahidi&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&layout=compact&theme=radical" />
 </p>
 <hr>
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
