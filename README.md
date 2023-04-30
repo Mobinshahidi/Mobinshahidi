@@ -29,13 +29,13 @@
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
   <img src="https://img.shields.io/badge/-vscode-black?style=for-the-badge&logo=Visual-Studio-Code&logoColor=blue" alt="Vscode" />
-<!--   <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" /> -->
+  <img src="https://img.shields.io/badge/-Git-gray?style=for-the-badge&logo=git" alt="Git" />
 <!--   <img src="https://img.shields.io/badge/-Jenkins-darkred?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins" /> -->
 <!--   <img src="https://img.shields.io/badge/-markdown-black?style=for-the-badge&logo=markdown" alt="Markdown" />
   <img src="https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker" alt="Docker" />
   <img src="https://img.shields.io/badge/-Swiper-purple?style=for-the-badge&logo=swiper" alt="swiper" /> -->
   <img src="https://img.shields.io/badge/-Github-black?style=for-the-badge&logo=github" alt="Github" />
-<!--   <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" /> -->
+  <img src="https://img.shields.io/badge/-Gitlab-darkorange?style=for-the-badge&logo=gitlab" alt="Gitlab" />
   <img src="https://img.shields.io/badge/-Atom-darkgreen?style=for-the-badge&logo=atom" alt="Atom" />
 <!--   <img src="https://img.shields.io/badge/-Tmux-black?style=for-the-badge&logo=tmux" alt="Tmux" /> -->
 </p>
@@ -49,12 +49,12 @@
 <!--   <img src="https://img.shields.io/badge/-Mac OS-purple?style=for-the-badge&logo=apple" alt="Macos" />
 </p> -->
 <hr>
-<!-- <p align="center"><samp><strong>Github Stats</strong></samp></p>
+<p align="center"><samp><strong>Github Stats</strong></samp></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliakbarzohour&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbarzohour&layout=compact&theme=radical" />
 </p>
-<hr> -->
+<hr>
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
   <a href="https://mowbinsh@gmail.com/"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
