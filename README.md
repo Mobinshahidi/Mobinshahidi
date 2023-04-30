@@ -23,7 +23,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5">
 <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </p>
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
