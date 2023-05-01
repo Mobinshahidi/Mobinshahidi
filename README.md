@@ -20,11 +20,12 @@
 </p> -->
 
 <p align="center"><samp><strong>Language and tools that I know:</strong></samp></p>
-<p align="center">
+<!-- <p align="center"> -->
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 <img src="https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=hTML5">
 <img src="https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</p>
+<!-- </p> -->
 <hr>
 <p align="center"><samp><strong>Tool And Technology</strong></samp></p>
 <p align="center">
@@ -46,14 +47,20 @@
     <img src="https://img.shields.io/badge/-Arch Based Linuxs-black?style=for-the-badge&logo=archlinux" alt="Arch" /> -->
   <img src="https://img.shields.io/badge/-Windows-white?style=for-the-badge&logo=windows&logoColor=blue" alt="Windows" />
   <img src="https://img.shields.io/badge/-Debian Based linuxs-darkred?style=for-the-badge&logo=debian" alt="Debian" />
-<!--   <img src="https://img.shields.io/badge/-Mac OS-purple?style=for-the-badge&logo=apple" alt="Macos" />
+  <img src="https://img.shields.io/badge/-Mac OS-purple?style=for-the-badge&logo=apple" alt="Macos" />
 </p> -->
 <hr>
-<p align="center"><samp><strong>Github Stats</strong></samp></p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mobinshahidi&show_icons=true&hide_border=true&count_private=true&theme=radical" alt="Github Status" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&layout=compact&theme=radical" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mobinshahidi&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobinshahidi&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mobinshahidi&icon=8&color=12)](https://visitcount.itsvg.in)
+
 <hr>
 <p align="center"><samp><strong>Contact Me</strong></samp></p>
 <p align="center"> 
@@ -64,3 +71,18 @@
   <a href="https://twitter.com/mobinshahiidi/"><img src="https://img.shields.io/badge/-Twitter-darkblue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
 <!--    <a href="https://instagram.com/ali.akbarzohour/"><img src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram" alt="instagram" /></a> -->
 </p>
+<!-- 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mobinshahidi&theme=swift&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=mobinshahidi&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mobinshahidi&icon=8&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> -->
