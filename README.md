@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54">
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white">
 </p> 
 <hr>
@@ -39,16 +40,15 @@
 <a href="https://stackoverflow.com/users/17703650/mobin-shahidi/"><img src="https://img.shields.io/badge/-Stackoverflow-white?style=for-the-badge&logo=stackoverflow" alt="Stakoverflow" /></a>
 <a href="https://twitter.com/mobinshahiidi/"><img src="https://img.shields.io/badge/-Twitter-darkblue?style=for-the-badge&logo=twitter" alt="Twitter" /></a>
 </p>
-
-<!-- # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mobinshahidi&theme=swift&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&theme=swift&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=mobinshahidi&theme=oldie&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=mobinshahidi&icon=8&color=12)](https://visitcount.itsvg.in)
- -->
+<hr>
+<h1 align="center">Github Stats<h1/>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobinshahidi&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mobinshahidi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
+<p/>
+<h1 align="center">Github Trophies
+<img align="center" src="https://github-profile-trophy.vercel.app/?username=mobinshahidi&theme=&no-frame=false&no-bg=true&margin-w=4">
+<h1/>
+<p align="center">
+<img align="center" src="https://visitcount.itsvg.in/api?id=mobinshahidi&icon=0&color=6">
+<p/>
