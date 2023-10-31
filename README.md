@@ -48,7 +48,4 @@
 <p/>
 <h1 align="center">Github Trophies
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mobinshahidi&theme=&no-frame=false&no-bg=true&margin-w=4">
-<h1/>
-<p align="center">
-<img align="center" src="https://visitcount.itsvg.in/api?id=mobinshahidi&icon=0&color=6">
-<p/>
+
